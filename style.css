@@ -30,6 +30,9 @@ body{
     border-radius: 10px;
 }
 
+
+
+
 .container{
     padding: 10px 10%;
 }
@@ -318,10 +321,6 @@ form .btn2{
     background: #262626;
     font-weight: 20px;
 }
-#msg{
-    color: #61b752;
-    margin-top: -40px;
-    display: block;
 /*-----------------------------css for smaller screens------------------*/
 nav .fa-solid{
     display: none;
@@ -387,8 +386,8 @@ nav .fa-solid{
     }
 }
 
-
-
-
-
-
+#msg{
+    color: #61b752;
+    margin-top: -40px;
+    display: block;
+}
