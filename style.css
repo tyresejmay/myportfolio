@@ -42,7 +42,7 @@ nav{
 }
 
 .name{
-    width: 300px;
+    width: 200px;
 }
 nav ul li{
     display: inline-block;
@@ -386,6 +386,7 @@ nav .fa-solid{
         font-size: 14px;
     }
 }
+
 
 
 
